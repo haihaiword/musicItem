@@ -1,2 +1,2 @@
-# musicItem
-音乐项目
+# shopItem
+基于node和vue的购物网站毕业设计项目
